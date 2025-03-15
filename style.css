@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+.bg-dark-text-light{
+    background-color: black;
+
+}
+button{
+    font-weight: bold;
+}
+#search{
+    width:20rem;
+    background-color: rgb(70,44,44);
+    border:none;
+    color:white;
+    padding:4px 10px;
+    border-radius: 2vh;
+    
+}
+#search:focus{
+    outline: none;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+.food{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:2rem;
+    margin:2rem;
+
+    .inner_food{
+        text-align: center;
+
+        .sub_inner_food{
+            .meals_image{
+                height: 30vh;
+                width: 18vw;
+                border:solid gold 3px;
+                border-radius:3px;
+                margin-top: 4px;
+                transition: 0.7s ease;
+            }
+            .meals_image:hover{
+                transform: scale(1.1);
+            }
+        }
+    }
+    
+
+    #meal_name{
+        margin-top:1rem;
+        color:white;
+        text-align: center;
+    }
+    #meal_id{
+        
+        color:white;
+        text-align: center;
+    }
+}
+
