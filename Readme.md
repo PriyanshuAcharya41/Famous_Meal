@@ -57,7 +57,7 @@ Home Page	Dish Details	Search Feature
 bash
 Copy
 Edit
-git clone [[https://github.com/your-username/world-cuisine-explorer.git](https://github.com/PriyanshuAcharya41/Famous_Meal.git)](https://github.com/PriyanshuAcharya41/Famous_Meal.git)
+git clone [[Copy](https://github.com/PriyanshuAcharya41/Famous_Meal.git)](https://github.com/PriyanshuAcharya41/Famous_Meal.git)
 2️⃣ Navigate to the project folder:
 
 bash
