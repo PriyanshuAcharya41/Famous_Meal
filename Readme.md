@@ -57,7 +57,7 @@ Home Page	Dish Details	Search Feature
 bash
 Copy
 Edit
-git clone [https://github.com/your-username/world-cuisine-explorer.git](https://github.com/PriyanshuAcharya41/Famous_Meal.git)
+git clone [[https://github.com/your-username/world-cuisine-explorer.git](https://github.com/PriyanshuAcharya41/Famous_Meal.git)](https://github.com/PriyanshuAcharya41/Famous_Meal.git)
 2️⃣ Navigate to the project folder:
 
 bash
@@ -69,7 +69,7 @@ cd world-cuisine-explorer
 (No additional setup required!)
 
 🖥️ Live Demo
-🔗 Try it here! ([Add GitHub Pages/Netlify link after deployment](https://famous-meal.vercel.app/))
+🔗 Try it here! ([World Cuisine Explorer](https://famous-meal.vercel.app/))
 
 🤝 Contributing
 Want to improve this project? 🍕 Fork it, create a branch, and submit a pull request! 🚀
