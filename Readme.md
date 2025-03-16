@@ -49,6 +49,7 @@ While working on this project, I gained valuable insights into:
 
 
 Home Page	Dish Details	Search Feature
+![Game Start](By_search.png)
 
 
 📂 Installation & Setup
