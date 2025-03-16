@@ -2,7 +2,6 @@
 🌍 World Cuisine Explorer 🍽️
 Discover the most famous dishes from different countries! 🇮🇳 🇨🇦 🇹🇭 🇷🇺 🇺🇸 🇬🇧
 
-Experience this(Desktop/laptop) https://famous-meal.vercel.app/
 India:-
 ![Game Start](meal_1.png)
 Canadian:-
@@ -58,7 +57,7 @@ Home Page	Dish Details	Search Feature
 bash
 Copy
 Edit
-git clone https://github.com/your-username/world-cuisine-explorer.git
+git clone [https://github.com/your-username/world-cuisine-explorer.git](https://github.com/PriyanshuAcharya41/Famous_Meal.git)
 2️⃣ Navigate to the project folder:
 
 bash
@@ -70,7 +69,7 @@ cd world-cuisine-explorer
 (No additional setup required!)
 
 🖥️ Live Demo
-🔗 Try it here! (Add GitHub Pages/Netlify link after deployment)
+🔗 Try it here! ([Add GitHub Pages/Netlify link after deployment](https://famous-meal.vercel.app/))
 
 🤝 Contributing
 Want to improve this project? 🍕 Fork it, create a branch, and submit a pull request! 🚀
@@ -80,4 +79,4 @@ Want to improve this project? 🍕 Fork it, create a branch, and submit a pull r
 
 📬 Contact
 📧 Your Name: Priyanshu Acharya
-🔗 GitHub: [@your-github](https://github.com/PriyanshuAcharya41/)
+🔗 GitHub: [Priyanshu_acharya41](https://github.com/PriyanshuAcharya41/)
